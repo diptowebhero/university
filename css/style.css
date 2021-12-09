@@ -232,6 +232,25 @@ body {
     font-size:35px;
     margin-bottom:10px;
 }
+/* contact end */
+.footer{
+  margin: auto;
+  text-align: center;
+  width: 90%;
+  padding:20px
+}
+.footer h1{
+  font-size: 35px;
+  margin-bottom:10px;
+}
+.icons, .fab{
+  color: #f44336 !important;
+  margin:0px 13px;
+  padding: 10px 0px;
+}
+.fa-heart{
+  color: #f44336;
+}
 /* media query for mobile device */
 @media (max-width: 767px) {
   .navbar {
